@@ -1,0 +1,47 @@
+[
+  {
+    "source": "TechCrunch",
+    "lang": "en",
+    "source_weight": 0.9,
+    "title": "OpenAI ships new enterprise AI agent toolkit",
+    "summary": "OpenAI announced an updated toolkit for enterprise AI agent orchestration and guardrails.",
+    "link": "https://example.com/openai-agent-toolkit",
+    "published": "Fri, 27 Feb 2026 08:00:00 GMT"
+  },
+  {
+    "source": "MIT Technology Review",
+    "lang": "en",
+    "source_weight": 0.95,
+    "title": "NVIDIA reveals next-generation GPU roadmap for AI training",
+    "summary": "The roadmap focuses on higher memory bandwidth and lower power consumption for large model training.",
+    "link": "https://example.com/nvidia-gpu-roadmap",
+    "published": "Fri, 27 Feb 2026 09:00:00 GMT"
+  },
+  {
+    "source": "InfoQ 中文",
+    "lang": "zh",
+    "source_weight": 0.9,
+    "title": "某云厂商发布新一代云原生 DevOps 平台",
+    "summary": "该平台整合 CI/CD、可观测性与安全扫描，提升企业软件交付效率。",
+    "link": "https://example.com/devops-platform",
+    "published": "Fri, 27 Feb 2026 10:00:00 GMT"
+  },
+  {
+    "source": "Hacker News Frontpage",
+    "lang": "en",
+    "source_weight": 0.9,
+    "title": "Popular open source SaaS framework reaches v3",
+    "summary": "The release adds multi-tenant primitives and improved deployment tooling.",
+    "link": "https://example.com/oss-saas-v3",
+    "published": "Fri, 27 Feb 2026 11:00:00 GMT"
+  },
+  {
+    "source": "V2EX 热门",
+    "lang": "zh",
+    "source_weight": 0.7,
+    "title": "开源 AI 编程助手本周更新",
+    "summary": "更新包含代码补全性能优化与上下文窗口提升。",
+    "link": "https://example.com/opensource-ai-coding",
+    "published": "Fri, 27 Feb 2026 12:00:00 GMT"
+  }
+]
