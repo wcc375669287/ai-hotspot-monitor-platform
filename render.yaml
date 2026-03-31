@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: ai-hotspot-web
+    env: python
+    plan: starter
+    rootDir: .
+    buildCommand: "python -V"
+    startCommand: "python src/web.py"
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: HOST
+        value: 0.0.0.0
+      - key: AI_AGENT_DATA_DIR
+        value: /var/data
+      - key: AI_AGENT_OUTPUT_DIR
+        value: /var/data/output
+      - key: AI_AGENT_CRON_TOKEN
+        generateValue: true
+    disk:
+      name: ai-hotspot-disk
+      mountPath: /var/data
+      sizeGB: 1
