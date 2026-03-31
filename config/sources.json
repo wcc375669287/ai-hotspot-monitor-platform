@@ -1,0 +1,350 @@
+{
+  "sources": {
+    "international": [
+      {
+        "name": "TechCrunch",
+        "type": "rss",
+        "url": "https://techcrunch.com/feed/",
+        "lang": "en",
+        "weight": 0.95,
+        "channel": "media",
+        "category": "tech",
+        "region": "global"
+      },
+      {
+        "name": "The Verge",
+        "type": "rss",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "lang": "en",
+        "weight": 0.9,
+        "channel": "media",
+        "category": "tech",
+        "region": "global"
+      },
+      {
+        "name": "Wired",
+        "type": "rss",
+        "url": "https://www.wired.com/feed/rss",
+        "lang": "en",
+        "weight": 0.88,
+        "channel": "media",
+        "category": "tech",
+        "region": "global"
+      },
+      {
+        "name": "MIT Technology Review",
+        "type": "rss",
+        "url": "https://www.technologyreview.com/feed/",
+        "lang": "en",
+        "weight": 0.95,
+        "channel": "media",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "Hacker News Frontpage",
+        "type": "rss",
+        "url": "https://hnrss.org/frontpage",
+        "lang": "en",
+        "weight": 0.92,
+        "channel": "community",
+        "category": "dev",
+        "region": "global"
+      },
+      {
+        "name": "GitHub Blog",
+        "type": "rss",
+        "url": "https://github.blog/feed/",
+        "lang": "en",
+        "weight": 0.9,
+        "channel": "official",
+        "category": "dev",
+        "region": "global"
+      },
+      {
+        "name": "GitHub Trending (Python)",
+        "type": "rss",
+        "url": "https://rsshub.app/github/trending/python/daily",
+        "lang": "en",
+        "weight": 0.85,
+        "channel": "community",
+        "category": "opensource",
+        "region": "global"
+      },
+      {
+        "name": "Product Hunt",
+        "type": "rss",
+        "url": "https://www.producthunt.com/feed",
+        "lang": "en",
+        "weight": 0.82,
+        "channel": "community",
+        "category": "product",
+        "region": "global"
+      },
+      {
+        "name": "OpenAI News",
+        "type": "rss",
+        "url": "https://openai.com/news/rss.xml",
+        "lang": "en",
+        "weight": 0.98,
+        "channel": "official",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "Google DeepMind Blog",
+        "type": "rss",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "lang": "en",
+        "weight": 0.96,
+        "channel": "official",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "Anthropic News",
+        "type": "rss",
+        "url": "https://www.anthropic.com/news/rss.xml",
+        "lang": "en",
+        "weight": 0.96,
+        "channel": "official",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "arXiv cs.AI",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/cs.AI",
+        "lang": "en",
+        "weight": 0.86,
+        "channel": "research",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "Reddit r/MachineLearning",
+        "type": "rss",
+        "url": "https://www.reddit.com/r/MachineLearning/.rss",
+        "lang": "en",
+        "weight": 0.8,
+        "channel": "social",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "type": "rss",
+        "url": "https://www.reddit.com/r/artificial/.rss",
+        "lang": "en",
+        "weight": 0.78,
+        "channel": "social",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "X @OpenAI (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/twitter/user/OpenAI",
+        "lang": "en",
+        "weight": 0.84,
+        "channel": "social",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "X @GoogleDeepMind (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/twitter/user/GoogleDeepMind",
+        "lang": "en",
+        "weight": 0.84,
+        "channel": "social",
+        "category": "ai",
+        "region": "global"
+      },
+      {
+        "name": "YouTube AI (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/youtube/channel/UCSHZKyawb77ixDdsGog4iWA",
+        "lang": "en",
+        "weight": 0.75,
+        "channel": "social",
+        "category": "video",
+        "region": "global"
+      }
+    ],
+    "domestic": [
+      {
+        "name": "36氪",
+        "type": "rss",
+        "url": "https://36kr.com/feed",
+        "lang": "zh",
+        "weight": 0.9,
+        "channel": "media",
+        "category": "tech",
+        "region": "cn"
+      },
+      {
+        "name": "钛媒体 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/tmtpost",
+        "lang": "zh",
+        "weight": 0.85,
+        "channel": "media",
+        "category": "business",
+        "region": "cn"
+      },
+      {
+        "name": "虎嗅 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/huxiu/rss",
+        "lang": "zh",
+        "weight": 0.86,
+        "channel": "media",
+        "category": "tech",
+        "region": "cn"
+      },
+      {
+        "name": "机器之心 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/jiqizhixin",
+        "lang": "zh",
+        "weight": 0.92,
+        "channel": "media",
+        "category": "ai",
+        "region": "cn"
+      },
+      {
+        "name": "量子位 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/qbitai",
+        "lang": "zh",
+        "weight": 0.9,
+        "channel": "media",
+        "category": "ai",
+        "region": "cn"
+      },
+      {
+        "name": "新智元 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/aitime",
+        "lang": "zh",
+        "weight": 0.9,
+        "channel": "media",
+        "category": "ai",
+        "region": "cn"
+      },
+      {
+        "name": "InfoQ 中文",
+        "type": "rss",
+        "url": "https://www.infoq.cn/feed",
+        "lang": "zh",
+        "weight": 0.9,
+        "channel": "media",
+        "category": "dev",
+        "region": "cn"
+      },
+      {
+        "name": "掘金后端 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/juejin/category/backend",
+        "lang": "zh",
+        "weight": 0.78,
+        "channel": "community",
+        "category": "dev",
+        "region": "cn"
+      },
+      {
+        "name": "V2EX 热门",
+        "type": "rss",
+        "url": "https://rsshub.app/v2ex/topics/hot",
+        "lang": "zh",
+        "weight": 0.75,
+        "channel": "community",
+        "category": "dev",
+        "region": "cn"
+      },
+      {
+        "name": "知乎热榜 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/zhihu/hotlist",
+        "lang": "zh",
+        "weight": 0.72,
+        "channel": "social",
+        "category": "social",
+        "region": "cn"
+      },
+      {
+        "name": "微博热搜 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/weibo/search/hot",
+        "lang": "zh",
+        "weight": 0.72,
+        "channel": "social",
+        "category": "social",
+        "region": "cn"
+      },
+      {
+        "name": "B站热门 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/bilibili/ranking/0/3/0",
+        "lang": "zh",
+        "weight": 0.7,
+        "channel": "social",
+        "category": "video",
+        "region": "cn"
+      },
+      {
+        "name": "微信公众号示例 (RSSHub)",
+        "type": "rss",
+        "url": "https://rsshub.app/wechat/mp/placeholder_id",
+        "lang": "zh",
+        "weight": 0.8,
+        "channel": "social",
+        "category": "wechat",
+        "region": "cn"
+      }
+    ]
+  },
+  "filter": {
+    "include_keywords": [
+      "ai",
+      "人工智能",
+      "大模型",
+      "llm",
+      "agent",
+      "芯片",
+      "gpu",
+      "cuda",
+      "模型",
+      "推理",
+      "云计算",
+      "saas",
+      "devops",
+      "开源",
+      "软件更新",
+      "数字化",
+      "aigc",
+      "deepmind",
+      "openai",
+      "anthropic",
+      "github",
+      "copilot",
+      "transformer",
+      "mcp",
+      "api"
+    ],
+    "exclude_keywords": [
+      "娱乐",
+      "八卦",
+      "明星",
+      "绯闻",
+      "体育",
+      "影视",
+      "综艺"
+    ]
+  },
+  "scoring": {
+    "min_push_score": 3,
+    "source_weight_factor": 2.2
+  }
+}
